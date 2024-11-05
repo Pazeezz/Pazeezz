@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Jayawardhane</h1>
-<h3 align="center">A passionate Full Stack Developer crafting digital experiences</h3>
+<h3 align="center">A passionate 4th Year Computer Science Student at University of Westminster</h3>
 
 <!-- Profile Views Counter -->
 <p align="left">
@@ -9,7 +9,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Building+innovative+solutions;Always+learning+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=4th+Year+Computer+Science+Student;Developing+innovative+solutions;Always+learning+new+technologies" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **[Belencia Sport](https://github.com/Pazeezz/Belencia-Sport)**
-- 🌱 I'm currently learning **Machine Learning** and **Cloud Computing**
-- 👯 I'm looking to collaborate on **innovative projects**
+- 🔭 I'm currently working on **[Belencia Sport](https://github.com/Pazeezz/Belencia-Sport)** as part of my university coursework
+- 🌱 I'm currently learning **Machine Learning** and **Cloud Computing** to enhance my skillset
+- 👯 I'm looking to collaborate on **innovative projects** related to Computer Science
 - 💬 Ask me about **Web Development, Mobile Apps, Cloud Architecture**
 - 📫 How to reach me: **pasindu.jayawardhane@example.com**
 - 🌐 Visit my website: [pasindu-jayawardhane.vercel.app](https://pasindu-jayawardhane.vercel.app)
@@ -80,7 +80,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pazeezz&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Pazeezz&theme=github" alt="Activity Graph" />
 </p>
 
 ### 🤝 Connect with me
@@ -98,12 +98,4 @@
   <a href="https://medium.com/@your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-</p>
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
-<p align="center">
-  <img src="https://github.com/Pazeezz/Pazeezz/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
