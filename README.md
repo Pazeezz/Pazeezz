@@ -21,13 +21,12 @@
 </p>
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **[Belencia Sport](https://github.com/Pazeezz/Belencia-Sport)** as part of my university coursework
-- 🌱 I'm currently learning **Machine Learning** and **Cloud Computing** to enhance my skillset
+- 🌱 I'm currently learning **Machine Learning**, **IOS Development** and **Cloud Computing** to enhance my skillset
 - 👯 I'm looking to collaborate on **innovative projects** related to Computer Science
 - 💬 Ask me about **Web Development, Mobile Apps, Cloud Architecture**
-- 📫 How to reach me: **pasindu.jayawardhane@example.com**
+- 📫 How to reach me: **pasindu.jayawardhane@gmail.com**
 - 🌐 Visit my website: [pasindu-jayawardhane.vercel.app](https://pasindu-jayawardhane.vercel.app)
-- ⚡ Fun fact: **I love playing chess and hiking during my free time**
+- ⚡ Fun fact: **I love playing chess and playing Guitar my free time**
 
 ### 🛠️ Tech Stack
 
@@ -80,7 +79,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Pazeezz&theme=github" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pazeezz&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### 🤝 Connect with me
