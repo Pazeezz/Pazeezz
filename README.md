@@ -25,7 +25,6 @@
 - 👯 I'm looking to collaborate on **innovative projects** related to Computer Science
 - 💬 Ask me about **Web Development, Mobile Apps, Cloud Architecture**
 - 📫 How to reach me: **pasindu.jayawardhane@gmail.com**
-- 🌐 Visit my website: [pasindu-jayawardhane.vercel.app](https://pasindu-jayawardhane.vercel.app)
 - ⚡ Fun fact: **I love playing chess and playing Guitar my free time**
 
 ### 🛠️ Tech Stack
