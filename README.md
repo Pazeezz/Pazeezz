@@ -72,15 +72,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pazeezz&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="Pazeezz Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pazeezz&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Pazeezz Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pazeezz&theme=synthwave&hide_border=true" alt="Pazeezz Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pazeezz&theme=dark&hide_border=true" alt="Pazeezz Streak Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazeezz&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages Used by Pazeezz"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazeezz&layout=compact&theme=dark&hide_border=true" alt="Top Languages Used by Pazeezz"/>
 </p>
 
 ---
