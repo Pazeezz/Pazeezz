@@ -9,16 +9,16 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineering+Enthusiast;Building+CI/CD+Pipelines;Containerization+and+Cloud+Computing;Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineering+Enthusiast;Building+CI/CD+Pipelines;Mastering+Cloud+and+Containerization;Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Kubernetes**, **Terraform**, and **AWS Cloud Architecture**
-- 👯 Looking to collaborate on **DevOps projects** involving CI/CD pipelines and automation
-- 💬 Ask me about **Docker, Jenkins, Kubernetes, CI/CD, and Cloud Computing**
+- 🌱 Currently learning **GitOps**, **AI-Powered DevOps**, and **Infrastructure as Code (IaC)**
+- 👯 Looking to collaborate on **DevOps projects** involving automation, observability, and cloud-native solutions
+- 💬 Ask me about **Kubernetes, Terraform, CI/CD pipelines, and DevSecOps**
 - 📫 Reach me at: **pasindu.jayawardhane@gmail.com**
 - ⚡ Fun fact: **I enjoy solving complex problems and playing chess in my free time**
 
@@ -30,9 +30,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 #### **Programming Languages**
@@ -42,11 +45,24 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+#### **Infrastructure & Cloud Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform (GCP)" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Cloud Services"/>
+</p>
+
+#### **Observability & Monitoring**
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenTelemetry-FCC624?style=for-the-badge&logo=openTelemetry&logoColor=black" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=#00A9E0" alt="Splunk"/>
+</p>
+
 #### **Other Tools**
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
@@ -54,15 +70,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pazeezz&show_icons=true&theme=dark&hide_border=true&locale=en" alt="Pazeezz Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pazeezz&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="Pazeezz Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pazeezz&theme=dark&hide_border=true" alt="Pazeezz Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pazeezz&theme=synthwave&hide_border=true" alt="Pazeezz Streak Stats"/>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazeezz&layout=compact&theme=dark&hide_border=true" alt="Top Languages Used by Pazeezz" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pazeezz&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages Used by Pazeezz"/>
 </p>
 
 ---
@@ -70,11 +86,10 @@
 ### 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Pazeezz/Belencia-Sport">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pazeezz&repo=Belencia-Sport&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Pazeezz/Fuel-Queue-Management-System">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pazeezz&repo=Fuel-Queue-Management-System&theme=dark&hide_border=true" />
+  <a href="#">
+    <img align="center" src="#" />
+    <!-- Replace with your project links -->
+    <!-- Example: https://github-readme-stats.vercel.app/api/pin/?username=Pazeezz -->
   </a>
 </p>
 
@@ -82,19 +97,5 @@
 
 ### 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pazeezz&theme=react-dark&hide_border=true" alt="Activity Graph for Pazeezz's GitHub Profile" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/pasindu-jayawardhane/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile of Pasindu Jayawardhane"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@Pasindu's Twitter"/>
-  </a>
-</p>
+<p align ="align-center"><!--Replace-->
+Activity Graph Placeholder
