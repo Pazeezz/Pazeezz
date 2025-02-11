@@ -20,6 +20,8 @@
 - 👯 Looking to collaborate on **DevOps projects** involving automation, observability, and cloud-native solutions
 - 💬 Ask me about **Kubernetes, Terraform, CI/CD pipelines, and DevSecOps**
 - 📫 Reach me at: **pasindu.jayawardhane@gmail.com**
+- 📝 Check out my articles on Medium: [Medium Profile](https://medium.com/@pasindulasanjith)
+- 💼 Connect with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/pasindu-jayawardhane-584b552a2)
 - ⚡ Fun fact: **I enjoy solving complex problems and playing chess in my free time**
 
 ---
@@ -86,9 +88,9 @@
 ### 🌟 Featured Projects
 
 <p align="center">
+  <!-- Replace with your project links -->
   <a href="#">
     <img align="center" src="#" />
-    <!-- Replace with your project links -->
     <!-- Example: https://github-readme-stats.vercel.app/api/pin/?username=Pazeezz -->
   </a>
 </p>
